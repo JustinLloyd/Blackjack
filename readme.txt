@@ -1,10 +1,11 @@
-Blackjack
-=========
-Thanks for your interest in  Blackjack. This project is now hosted at https://bitbucket.org/JustinLloyd/blackjack
+* Welcome
+Thanks for downloading Blackjack.
+
+Visit https://bitbucket.org/JustinLloyd/blackjack/overview for 
+more information and to download the latest version.
 
 
-License
-=======
+* License
                       DO WHATEVER PUBLIC LICENSE
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
@@ -19,8 +20,7 @@ License
  Software originally created by Justin Lloyd @ http://otakunozoku.com/
 
 
-About
-=====
+* About
 A regular old blackjack game from the dawn of the interactive internet. Click
 on how much you want to bet, click on "deal", try and beat the dealer.
 
@@ -31,10 +31,8 @@ it to run just fine in Chrome 22, Firefox 15 and Internet Explorer 9.
 You can also check it out at http://www.otakunozoku.com/AdBlackJack/index.html
 
     
-Pre-requisites
-==============
+* Pre-requisites
 1. Java compiler
 
-Support
-=======
+* Support
 Absolutely none provided.
